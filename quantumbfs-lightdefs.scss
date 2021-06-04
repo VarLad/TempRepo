@@ -17,7 +17,7 @@ $documenter-sidebar-menu-active-hover-background: lighten-color($documenter-side
 $documenter-sidebar-menu-active-hover-color: $documenter-sidebar-menu-active-color;
 
 // this is the color the links get, and also when they are hovered
-$link: $secondcolor;
+$link: $thirdcolor;
 $link-hover: darken-color($link, 1);
 
 // Main text color:
@@ -43,7 +43,7 @@ $body-font-size: 1.0em; // the default is 1.0
 $documenter-sidebar-size: 1.0em; // the default is 1.0 as well
 
 // these two change what happens with input boxes (the search box):
-$input-hover-border-color: $secondcolor;
+$input-hover-border-color: $thirdcolor;
 $input-focus-border-color: $mainwhite;
 
 // Include the original theme which will now use the updated variables.
